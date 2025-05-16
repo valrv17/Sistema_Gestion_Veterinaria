@@ -1,17 +1,23 @@
-#🐾 Clínica Veterinaria "Amigos Peludos"
-Este proyecto es una aplicación de consola desarrollada en Python, que simula un sistema de gestión básica para una clínica veterinaria. Está construida aplicando programación orientada a objetos (POO), modelando entidades como Dueño, Mascota y Consulta.
+# 🐾 Clínica Veterinaria "Amigos Peludos"
 
-#📌 Funcionalidades
+Este proyecto es una aplicación de consola desarrollada en **Python**, que simula un sistema de gestión básica para una clínica veterinaria. Está construida aplicando **Programación Orientada a Objetos (POO)**, modelando entidades como `Dueño`, `Mascota` y `Consulta`.
 
--Registrar una mascota junto a los datos de su dueño.
--Registrar consultas médicas asociadas a una mascota.
--Listar todas las mascotas registradas.
--Ver el historial clínico de una mascota específica.
+---
 
-#Funciones principales del menú:
+## 📌 Funcionalidades
 
--registrar_mascota(): Permite ingresar los datos de una mascota y de su dueño.
--registrar_consulta(): Permite asociar una consulta médica a una mascota ya registrada.
--listar_mascotas(): Muestra la lista completa de mascotas registradas.
--ver_historial(): Permite consultar el historial clínico de una mascota seleccionada.
--menu(): Muestra el menú principal en consola y dirige el flujo del programa.
+- Registrar una mascota junto a los datos de su dueño.  
+- Registrar consultas médicas asociadas a una mascota.  
+- Listar todas las mascotas registradas.  
+- Ver el historial clínico de una mascota específica.  
+
+---
+
+## ⚙️ Funciones principales del menú
+
+- `registrar_mascota()`: Permite ingresar los datos de una mascota y de su dueño.  
+- `registrar_consulta()`: Permite asociar una consulta médica a una mascota ya registrada.  
+- `listar_mascotas()`: Muestra la lista completa de mascotas registradas.  
+- `ver_historial()`: Permite consultar el historial clínico de una mascota seleccionada.  
+- `menu()`: Muestra el menú principal en consola y dirige el flujo del programa.  
+
